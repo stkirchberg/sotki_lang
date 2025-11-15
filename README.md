@@ -1,6 +1,6 @@
 # sotki — Prototype of a Custom Programming Language
 
-MyLang is a minimal interpreter prototype written in Python.  
+Sotki is a minimal interpreter prototype written in Python.  
 The project serves as a foundation for designing your own language, which can later be ported to a high-performance implementation (e.g., Rust, Zig, or C++).
 
 This prototype is **not optimized for performance**. It is designed for:
