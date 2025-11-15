@@ -17,25 +17,25 @@ It acts as a **language lab** before the final, performant version is created.
 
 # 📁 Project Structure
 
-sotki_lang/
-│
-├── lexer/
-│ ├── init.py
-│ └── lexer.py
-│
-├── parser/
-│ ├── init.py
-│ └── parser.py
-│
-├── ast/
-│ ├── init.py
-│ └── nodes.py
-│
-├── interpreter/
-│ ├── init.py
-│ └── interpreter.py
-│
-├── main.py
+sotki_lang/<br>
+│<br>
+├── lexer/<br>
+│ ├── init.py<br>
+│ └── lexer.py<br>
+│<br>
+├── parser/<br>
+│ ├── init.py<br>
+│ └── parser.py<br>
+│<br>
+├── ast/<br>
+│ ├── init.py<br>
+│ └── nodes.py<br>
+│<br>
+├── interpreter/<br>
+│ ├── init.py<br>
+│ └── interpreter.py<br>
+│<br>
+├── main.py<br>
 └── tokens.py
 
 
@@ -266,4 +266,4 @@ It is **not** intended to be performant — only **experiment-friendly**.
 
 # 📄 License
 
-(Insert your preferred license here, e.g., MIT, BSD, Apache, or custom.)
+Idgaf if you wanna use this shit, feel free
